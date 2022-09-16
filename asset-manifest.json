@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.3705f353.css",
-    "main.js": "/static/js/main.37e463bf.js",
-    "index.html": "/index.html",
-    "main.3705f353.css.map": "/static/css/main.3705f353.css.map",
-    "main.37e463bf.js.map": "/static/js/main.37e463bf.js.map"
+    "main.css": "/kyowontour__react/static/css/main.3705f353.css",
+    "main.js": "/kyowontour__react/static/js/main.08e8b4c0.js",
+    "index.html": "/kyowontour__react/index.html",
+    "main.3705f353.css.map": "/kyowontour__react/static/css/main.3705f353.css.map",
+    "main.08e8b4c0.js.map": "/kyowontour__react/static/js/main.08e8b4c0.js.map"
   },
   "entrypoints": [
     "static/css/main.3705f353.css",
-    "static/js/main.37e463bf.js"
+    "static/js/main.08e8b4c0.js"
   ]
 }
