@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/jigoooo/kyowontour__react.git/static/css/main.3705f353.css",
-    "main.js": "/jigoooo/kyowontour__react.git/static/js/main.3d8b18ba.js",
-    "index.html": "/jigoooo/kyowontour__react.git/index.html",
-    "main.3705f353.css.map": "/jigoooo/kyowontour__react.git/static/css/main.3705f353.css.map",
-    "main.3d8b18ba.js.map": "/jigoooo/kyowontour__react.git/static/js/main.3d8b18ba.js.map"
+    "main.css": "/kyowontour__react.git/static/css/main.3705f353.css",
+    "main.js": "/kyowontour__react.git/static/js/main.89087a22.js",
+    "index.html": "/kyowontour__react.git/index.html",
+    "main.3705f353.css.map": "/kyowontour__react.git/static/css/main.3705f353.css.map",
+    "main.89087a22.js.map": "/kyowontour__react.git/static/js/main.89087a22.js.map"
   },
   "entrypoints": [
     "static/css/main.3705f353.css",
-    "static/js/main.3d8b18ba.js"
+    "static/js/main.89087a22.js"
   ]
 }
